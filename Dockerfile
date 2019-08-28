@@ -4,5 +4,5 @@ FROM nginx:1.15.12-alpine
 # og img
 COPY . /usr/share/nginx/html
 
-COPY lol /usr/share/nginx/html
+# COPY lol /usr/share/nginx/html
 # 
